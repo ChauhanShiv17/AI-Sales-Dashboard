@@ -2,16 +2,11 @@ AI Sales Dashboard
 
 An interactive Machine Learning powered sales analytics dashboard built using Python and Streamlit.
 
-Features
-
+Features:
 Sales Trend Analysis
-
 Customer Segmentation using K-Means
-
 Sales Forecasting
-
 Interactive Visualizations
-
 Data Cleaning & EDA
 
 Tech Stack:
